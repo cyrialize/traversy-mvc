@@ -4,6 +4,8 @@ This repository contains the code created while following along with the [Object
 
 The code isn't exactly the same as what is presented within the course. There are some minor differences, like spacing, curly brackets, style, etc. See below for more details.
 
+This code is for sections 1 - 4. Section 5 - 6 can be found [here](https://github.com/cyrialize/traversy-mvc-app). In sections 5 and 6 you create an application on top of the framework. I wanted to keep the framework separate.
+
 # Why do this course?
 
 Creating your own framework is a great way (in my opinion) to understand the inner workings of frameworks and to become familiar with PHP. 
